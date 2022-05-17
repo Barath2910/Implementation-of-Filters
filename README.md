@@ -246,7 +246,7 @@ i) Using Laplacian Kernal
 </br>
 
 ii) Using Laplacian Operator
-![o](./6.jpg)
+![o](./6.JPG)
 </br>
 </br>
 </br>
