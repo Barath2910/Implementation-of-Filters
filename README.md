@@ -203,7 +203,7 @@ plt.axis('off')
 </br>
 
 i) Using Averaging Filter
-![o](./1.jpg)
+![o](./1.JPG)
 </br>
 </br>
 </br>
@@ -211,7 +211,7 @@ i) Using Averaging Filter
 </br>
 
 ii) Using Weighted Averaging Filter
-![0](./2.jpg)
+![0](./2.JPG)
 </br>
 </br>
 </br>
@@ -219,7 +219,7 @@ ii) Using Weighted Averaging Filter
 </br>
 
 iii) Using Weighted Averaging Filter(Gaussian Filter)
-![o](./3.jpg)
+![o](./3.JPG)
 </br>
 </br>
 </br>
@@ -227,7 +227,7 @@ iii) Using Weighted Averaging Filter(Gaussian Filter)
 </br>
 
 iv) Using Median Filter
-![o](./4.jpg)
+![o](./4.JPG)
 </br>
 </br>
 </br>
@@ -238,7 +238,7 @@ iv) Using Median Filter
 </br>
 
 i) Using Laplacian Kernal
-![o](./5.jpg)
+![o](./5.JPG)
 </br>
 </br>
 </br>
